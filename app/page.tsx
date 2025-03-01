@@ -25,14 +25,3 @@ export default function Home() {
 		</div>
 	);
 }
-
-{
-	/* <header className="">
-					<p className="font-semibold text-base">Hello I&apos;m</p>
-					<h1 className="text-2xl md:text-3xl font-black text-zinc-800">Jon Albert Virrey.</h1>
-					<p className="mt-4 text-sm font-medium leading-6">
-						I&apos;m an IT student exploring the world of software development. I enjoy solving complex problems,
-						tackling challenges, and continuously expanding my skill set through hands-on projects.
-					</p>
-				</header> */
-}
